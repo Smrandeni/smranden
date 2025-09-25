@@ -32,17 +32,18 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,graphql,postgresql,mongodb,aws,docker,git,figma" />
-</p>
-
----
-
-<!-- GitHub Stats Section -->
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smrandeni&theme=radical" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smrandeni&layout=compact&theme=radical"/>
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=js,ts,py" />
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,angular" />
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
+  <!-- AI/ML & Data -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <!-- DevOps & Tools -->
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,figma" />
 </p>
 
 ---

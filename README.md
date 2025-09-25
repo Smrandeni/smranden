@@ -1,7 +1,7 @@
 <!-- Profile Header -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Smrandeni.png" width="120" style="border-radius:50%" alt="Profile Picture"/>
-</p>
+</p> -->
 
 <h1 align="center">Hi 👋, I'm Supun</h1>
 <p align="center">

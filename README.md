@@ -54,64 +54,37 @@ I am a **dynamic software engineer** specializing in **full-stack development** 
 
 ---
 
-## ⚡ Technical Skills
+### ⚡ Technical Skills
 
 **Languages:**  
-Python ▮▮▮▮▮ 90%  
-Java ▮▮▮▮▮ 85%  
-JavaScript ▮▮▮▮▯ 80%  
-TypeScript ▮▮▮▮▯ 75%  
-PHP ▮▮▮▯▯ 60%  
-HTML/CSS ▮▮▮▮▯ 80%  
+![Python](https://img.shields.io/badge/Python-90%25-brightgreen) 
+![Java](https://img.shields.io/badge/Java-85%25-brightgreen) 
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellowgreen) 
+![TypeScript](https://img.shields.io/badge/TypeScript-75%25-yellowgreen) 
+![PHP](https://img.shields.io/badge/PHP-60%25-orange) 
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-80%25-yellowgreen)  
 
 **Backend:**  
-Django ▮▮▮▮▮ 90%  
-Flask ▮▮▮▯▯ 70%  
+![Django](https://img.shields.io/badge/Django-90%25-brightgreen) 
+![Flask](https://img.shields.io/badge/Flask-70%25-yellowgreen)  
 
 **Frontend:**  
-Angular ▮▮▮▮▯ 80%  
-Bootstrap ▮▮▮▮▯ 80%  
-jQuery ▮▮▮▯▯ 65%  
-AJAX ▮▮▮▯▯ 65%  
-PrimeNG ▮▮▮▮▯ 75%  
-
-**APIs:**  
-RESTful API development, Postman, EcoApi  
-
-**Databases:**  
-MySQL, PostgreSQL, MongoDB  
-
-**Cloud & Authentication:**  
-Firebase (Authentication, Firestore, Messaging)  
-
-**DevOps & Version Control:**  
-Docker (local), Git, GitHub  
-
-**AI / Testing:**  
-LLaMA, Windsurf, Cursor, BrowserStack, Unit/API Testing  
-
-**Agile / Collaboration Tools:**  
-Jira, Confluence, Slack  
-
-**IDEs:**  
-PyCharm, Visual Studio, NetBeans  
-
-**Platforms:**  
-Windows, Ubuntu  
-
-**Other Tools:**  
-Figma, AutoCAD, Photoshop, Zoho  
-
-**Knowledge Areas:**  
-Cybersecurity, AI/ML, Odoo (ERP Systems)
-
----
+![Angular](https://img.shields.io/badge/Angular-80%25-yellowgreen) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-80%25-yellowgreen) 
+![jQuery](https://img.shields.io/badge/jQuery-65%25-orange) 
+![AJAX](https://img.shields.io/badge/AJAX-65%25-orange) 
+![PrimeNG](https://img.shields.io/badge/PrimeNG-75%25-yellowgreen)
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=supunrandeniya&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=supunrandeniya&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smrandeni&theme=radical" width="450" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smrandeni&layout=compact&theme=radical" width="380" /> -->
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smrandeni&theme=radical" width="450"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Smrandeni&show_icons=true&count_private=true&theme=radical" width="380"/> -->
 </p>
 
 ---

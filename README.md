@@ -3,7 +3,7 @@
   <img src="https://github.com/Smrandeni.png" width="120" style="border-radius:50%" alt="Profile Picture"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Smrandeni</h1>
+<h1 align="center">Hi 👋, I'm Supun</h1>
 <p align="center">
   <b>Software Engineer | Full Stack Developer | Tech Enthusiast</b>
 </p>
@@ -20,10 +20,11 @@
 <!-- Bio Section -->
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Order Mate** and **Top Tech Mentors**
-- 🌱 I’m learning **Next.js**, **GraphQL**, and **Cloud DevOps**
-- 💬 Ask me about **React, Node.js, or API Design**
-- ⚡ Fun fact: I love building products that make life easier!
+- 🚀 Currently working on **Order Mate** & **Top Tech Mentors**  
+- 🤖 Interested in **Artificial Intelligence** & **Machine Learning**  
+- 💡 I enjoy designing robust **APIs** and crafting smooth **frontend experiences**  
+- 🛠️ Tech Stack: **React, Node.js, Django, Angular, PostgreSQL**  
+- ⚡ Fun fact: I love creating products that solve real-world problems & make life easier 
 
 ---
 
@@ -43,17 +44,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Smrandeni&theme=radical" alt="streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smrandeni&layout=compact&theme=radical"/>
 </p>
-
----
-
-<!-- Projects Section -->
-### 🚀 Featured Projects
-
-- [Order Mate Frontend](https://github.com/nmeg-technologies/order-mate-frontend)
-- [Order Mate Backend](https://github.com/nmeg-technologies/order-mate-backend)
-- [Top Tech Mentors Frontend](https://github.com/nmeg-technologies/top-tech-mentors-frontend)
-- [Top Tech Mentors Backend](https://github.com/nmeg-technologies/top-tech-mentors-backend)
-- [Inventory Management](https://github.com/Smrandeni/inventory-management)
 
 ---
 
